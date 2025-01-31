@@ -12,19 +12,6 @@ This assignment involves implementing **Dog** and **Person** classes with proper
 
 ---
 
-## 📂 **Project Structure**
-Assignment1/
-├── src/
-│   ├── main/
-│   │   ├── java/com/assignment/Dog.java
-│   │   ├── java/com/assignment/Person.java
-│   ├── test/
-│   │   ├── java/com/assignment/DogTest.java
-│   │   ├── java/com/assignment/PersonTest.java
-├── README.md
-
----
-
 ## 🛠 **How to Run the Code**
 ### **Using Maven (Recommended)**
 1. **Clone the repository**  
