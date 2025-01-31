@@ -16,7 +16,7 @@ This assignment involves implementing **Dog** and **Person** classes with proper
 ### **Using Maven (Recommended)**
 1. **Clone the repository**  
    ```sh
-   git clone [your-github-repo-url]
+   git clone https://github.com/lcow2425/Assignment1_c0932018.git
    cd Assignment1
    mvn clean install
    mvn test
