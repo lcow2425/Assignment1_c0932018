@@ -2,8 +2,8 @@
 **Student Name:** Jagdeep Singh  
 **Student ID:** C0932018  
 **Course:** Java EE  
-**Instructor:** Prof. Leguia Lambton  
-**Submission Date:** [Insert Date]  
+**Instructor:** Prof. Leguia  
+**Submission Date:** 31-January-2025  
 
 ---
 
